@@ -15,6 +15,6 @@ In this project we'll Use Transfer learning using VGG16 model and customize our 
 
 ![image](https://user-images.githubusercontent.com/59818604/132742610-8c00c8ac-8640-4ae0-951e-05e8efab4275.png)
 
-Then transfer learning was used with convolutional neural networks by utilising VGG16 as the base model for image classification. The model was able to achieve *94.5% accuracy* on the validation set.
+Then transfer learning was used with convolutional neural networks by utilising VGG16 as the base model for image classification. The model was able to achieve **94.5% accuracy** on the validation set.
 ## References
 https://github.com/Sanket2311/Pneumonia-Classification-using-Transfer-learning
